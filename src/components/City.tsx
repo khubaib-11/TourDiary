@@ -21,7 +21,7 @@ function City() {
 
   useEffect(() => {
     getCity(id);
-  }, [id]);
+  }, [id, getCity]);
 
   // const [searchParams, setSearchParams] = useSearchParams();
   // console.log(searchParams);

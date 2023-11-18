@@ -1,18 +1,6 @@
 {
   "cities": [
     {
-      "cityName": "Lisbon",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
-      "date": "2027-10-31T15:59:59.138Z",
-      "notes": "My favorite city so far!",
-      "position": {
-        "lat": 38.727881642324164,
-        "lng": -9.140900099907554
-      },
-      "id": 73930385
-    },
-    {
       "cityName": "Madrid",
       "country": "Spain",
       "emoji": "🇪🇸",
@@ -25,16 +13,64 @@
       "id": 17806751
     },
     {
-      "cityName": "Berlin",
-      "country": "Germany",
-      "emoji": "🇩🇪",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
+      "cityName": "Bellver de Cerdanya",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-11-16T04:07:09.606Z",
+      "notes": "123",
       "position": {
-        "lat": 52.53586782505711,
-        "lng": 13.376933665713324
+        "lat": "42.4085126354077",
+        "lng": "1.7578125000000002"
       },
-      "id": 98443197
+      "id": 17806752
+    },
+    {
+      "cityName": "Arthun",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2023-11-16T04:07:24.617Z",
+      "notes": "1230",
+      "position": {
+        "lat": "45.75176629487858",
+        "lng": "4.042968750000001"
+      },
+      "id": 17806753
+    },
+    {
+      "cityName": "Teramo",
+      "country": "Italy",
+      "emoji": "🇮🇹",
+      "date": "2023-11-16T04:11:16.809Z",
+      "notes": "456",
+      "position": {
+        "lat": "42.61303461188456",
+        "lng": "13.666992187500002"
+      },
+      "id": 17806754
+    },
+    {
+      "cityName": "Saint-Chamond",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2023-11-16T04:13:13.392Z",
+      "notes": "123",
+      "position": {
+        "lat": "45.476101361443675",
+        "lng": "4.504394531250001"
+      },
+      "id": 17806755
+    },
+    {
+      "cityName": "Neung-sur-Beuvron",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2023-11-18T09:56:53.528Z",
+      "notes": "12345",
+      "position": {
+        "lat": "47.51628900020603",
+        "lng": "1.7358398437500002"
+      },
+      "id": 17806756
     }
   ]
 }
